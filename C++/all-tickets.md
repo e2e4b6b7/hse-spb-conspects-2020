@@ -91,7 +91,7 @@
         static int var = 82; // Передаю привет Гимназии №82 города Краснодара
         ```
 
-        file1.hpp
+        file1.cpp
 
         ```C++
         #include "header.hpp"
